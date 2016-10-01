@@ -1,0 +1,10 @@
+{
+  "name": "sample-module",
+  "version": "0.1.0",
+  "description": "Node sample module",
+  "main": "sample.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Christian Baranowski",
+  "license": "ISC"
+}
